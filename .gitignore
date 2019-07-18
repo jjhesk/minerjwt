@@ -93,7 +93,6 @@ testing_darwin
 
 testing_algo_ts
 
-*.zip
 
 admin_backend_php/Public/Uploads/
 
