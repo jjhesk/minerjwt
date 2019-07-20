@@ -1,3 +1,3 @@
 # mjwtminer
 
-Its a private solution
+Its a private mining optimized solution.
