@@ -1,3 +1,3 @@
-# mxcrk
+# mjwtminer
 
 Its a private solution
